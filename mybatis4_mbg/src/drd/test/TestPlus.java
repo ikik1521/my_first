@@ -21,8 +21,6 @@ import org.mybatis.generator.internal.DefaultShellCallback;
 
 
 import drd.abean.Employee;
-import drd.abean.EmployeeExample;
-import drd.abean.EmployeeExample.Criteria;
 import drd.dao.EmployeeMapper;
 
 public class TestPlus {
